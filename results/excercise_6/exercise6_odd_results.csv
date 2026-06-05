@@ -1,0 +1,10 @@
+model,dataset,accuracy
+pedestrian,fog,0.8036111111111112
+pedestrian,night,0.7958333333333333
+pedestrian,town01,0.5952777777777778
+vehicle,fog,0.5311111111111111
+vehicle,night,0.3447222222222222
+vehicle,town01,0.7072222222222222
+traffic_light,fog,0.7208333333333333
+traffic_light,night,0.34055555555555556
+traffic_light,town01,0.8072222222222222

@@ -13,6 +13,8 @@ This repository contains the code, notebooks, and results developed for the Intr
 * Exercise 5.3: Poisoning for Prompt Injection Backdoors
 * Exercise 5.4: Temperature Scaling and Confidence Thresholds
 * Exercise 5.5: Backdoor Attack on the Pedestrian Detector
+* Exercise 6.5: Applying Grad-CAM for Model Explainability
+* Exercise 6.6: Explainability as a Diagnostic Tool under Distribution Shift
 
 # Dataset
 
@@ -94,24 +96,7 @@ git clone https://github.com/kkirchheim/odd-coverage.git
 
 # Python Setup
 
-Create a virtual environment:
-
-```bash
-python3 -m venv .venv
-```
-
-Activate:
-
-Linux / macOS:
-
-```bash
-source .venv/bin/activate
-```
-
-Windows:
-
-```bash
-.venv\Scripts\activate
+Import all necessary packages before implementation
 ```
 
 Install required packages using:
