@@ -15,6 +15,11 @@ This repository contains the code, notebooks, and results developed for the Intr
 * Exercise 5.5: Backdoor Attack on the Pedestrian Detector
 * Exercise 6.5: Applying Grad-CAM for Model Explainability
 * Exercise 6.6: Explainability as a Diagnostic Tool under Distribution Shift
+* Exercise 7.4 Visualising the Distribution Shift
+* Exercise 7.5 Is the Different Town Out-of-Distribution
+* Exercise 7.6 Evaluating the MSP Baseline
+* Exercise 7.7 Feature-Based OOD Detection
+* Exercise 7.8 Extending the Safety Analyasis for OOD
 
 # Dataset
 
@@ -50,37 +55,14 @@ Generated models:
 * excercise-3/excercise_3.ipynb
 * excercise-4/excercise_4.ipynb
 * excercise-5/excercise_5.ipynb
+* excercise-6/excercise_6.ipynb
+* excercise-7/excercise_7.ipynb
 
 Each exercise folder also contains a dedicated README.md describing the implementation and theoretical answers.
 
 # Results
 
-## Exercise 3
-
-* exercise3_results.csv
-* pedestrian_loss.png
-* vehicle_loss.png
-* traffic_light_loss.png
-
-## Exercise 4
-
-* exercise4_results.csv
-* k_projection_coverage.csv
-* pedestrian_confusion_matrix.png
-* vehicle_confusion_matrix.png
-* traffic_light_confusion_matrix.png
-
-## Exercise 5
-
-* exercise5_results.csv
-* trigger_example.png
-* confidence_distribution_T_0.5.png
-* confidence_distribution_T_1.0.png
-* confidence_distribution_T_2.0.png
-* normal_test_confidence_distribution.png
-* fog_test_confidence_distribution.png
-* night_test_confidence_distribution.png
-* town01_test_confidence_distribution.png
+The results folder contains a dedicated folder for each exercise that contains the output images along with the .csv files for storing the numeric values.
 
 # External Implementation for Exercise 4.5
 
