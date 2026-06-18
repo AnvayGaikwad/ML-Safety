@@ -20,6 +20,8 @@ This repository contains the code, notebooks, and results developed for the Intr
 * Exercise 7.6 Evaluating the MSP Baseline
 * Exercise 7.7 Feature-Based OOD Detection
 * Exercise 7.8 Extending the Safety Analyasis for OOD
+* Exercise 8.4 Generating Adversarial Examples
+* Exercise 8.5 Measuring Robustness
 
 # Dataset
 
@@ -57,6 +59,7 @@ Generated models:
 * excercise-5/excercise_5.ipynb
 * excercise-6/excercise_6.ipynb
 * excercise-7/excercise_7.ipynb
+* excercise-8/excercise_8.ipynb
 
 Each exercise folder also contains a dedicated README.md describing the implementation and theoretical answers.
 
