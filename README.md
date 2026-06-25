@@ -26,7 +26,7 @@ This repository contains the code, notebooks, and results developed for the Intr
 * Exercise 9.3 Cost-Optimal Downstream Decisions
 * Exercise 9.4 Measuring Calibration
 * Exercise 9.5 Temperature Scaling
-* Exercise 9.6 Cost-optimal Ddecision in Practice
+* Exercise 9.6 Cost-optimal Decision in Practice
 * Exercise 9.7 Tracing Confidence through the safety analysis
 
 
