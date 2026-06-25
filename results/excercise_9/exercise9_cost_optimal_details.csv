@@ -1,0 +1,5 @@
+Model,Threshold,FN,FP,Total Loss
+Uncalibrated,0.5,346,675,35275
+Uncalibrated,tau*,13,2615,3915
+Calibrated,0.5,346,675,35275
+Calibrated,tau*,0,2894,2894
