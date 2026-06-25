@@ -22,6 +22,13 @@ This repository contains the code, notebooks, and results developed for the Intr
 * Exercise 7.8 Extending the Safety Analyasis for OOD
 * Exercise 8.4 Generating Adversarial Examples
 * Exercise 8.5 Measuring Robustness
+* Exercise 9.2 Calibration and ECE
+* Exercise 9.3 Cost-Optimal Downstream Decisions
+* Exercise 9.4 Measuring Calibration
+* Exercise 9.5 Temperature Scaling
+* Exercise 9.6 Cost-optimal Ddecision in Practice
+* Exercise 9.7 Tracing Confidence through the safety analysis
+
 
 # Dataset
 
@@ -60,6 +67,8 @@ Generated models:
 * excercise-6/excercise_6.ipynb
 * excercise-7/excercise_7.ipynb
 * excercise-8/excercise_8.ipynb
+* excercise-9/excercise_9.ipynb
+
 
 Each exercise folder also contains a dedicated README.md describing the implementation and theoretical answers.
 
