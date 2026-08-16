@@ -28,7 +28,7 @@ This repository contains the code, notebooks, and results developed for the Intr
 * Exercise 9.5 Temperature Scaling
 * Exercise 9.6 Cost-optimal Decision in Practice
 * Exercise 9.7 Tracing Confidence through the safety analysis
-
+* Additional Implementation: Extended the safety evaluation through input corruption robustness testing, safety-envelope analysis, and a runtime safety monitor with simulated fallback mechanisms.
 
 # Dataset
 
@@ -68,6 +68,7 @@ Generated models:
 * excercise-7/excercise_7.ipynb
 * excercise-8/excercise_8.ipynb
 * excercise-9/excercise_9.ipynb
+* additional_implementation.ipynb
 
 
 Each exercise folder also contains a dedicated README.md describing the implementation and theoretical answers.
