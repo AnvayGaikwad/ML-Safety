@@ -1,0 +1,4 @@
+Model,Worst Condition,Clean Recall,Worst Recall,Recall Drop,Envelope Met
+Pedestrian,Brightness S3,0.509915014164306,0.0084985835694051,0.5014164305949008,False
+Vehicle,Brightness S3,0.9651851851851851,0.014814814814814815,0.9503703703703703,False
+Traffic Light,Brightness S3,0.9841331269349846,0.0,0.9841331269349846,False
